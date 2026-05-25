@@ -1,0 +1,3 @@
+Some topic I have to understand:
+ 1. Bitwise operator and how does it works?
+ 2. OPP for Cpp
