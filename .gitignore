@@ -1,0 +1,20 @@
+# Build files
+*.exe
+*.o
+*.out
+*.app
+
+
+
+
+# object files
+*.pdb
+#Temporary files
+*.tmp
+*.log
+#folders to ignore
+build/
+bin/
+obj/
+Debug/
+RElease/
